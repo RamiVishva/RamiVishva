@@ -8,3 +8,5 @@
 - ⚡ Fun fact: Music is the best partner ever <3
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiVishva)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiVishva)](https://github.com/anuraghazra/github-readme-stats)
