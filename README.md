@@ -9,6 +9,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiVishva)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamiVishva)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamiVishva&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiVishva)](https://github.com/anuraghazra/github-readme-stats)
