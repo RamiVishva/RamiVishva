@@ -6,5 +6,5 @@
 - 📫 How to reach me: vishvasandiprami@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Music is the best partner ever <3
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiVishva&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamiVishva&theme=tokyonight)](https://git.io/streak-stats)
