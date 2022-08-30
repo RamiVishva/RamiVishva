@@ -7,8 +7,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Music is the best partner ever <3
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiVishva)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiVishva&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamiVishva&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiVishva)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiVishva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
